@@ -1,17 +1,32 @@
-## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=technoxx&color=1520A6)
 
-<!--
-**technoxx/technoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Somiya Agarwal  
+**Backend Software Engineer | Python & FastAPI | Distributed Systems Enthusiast**  
+Passionate about building scalable, production-grade systems that solve real-world problems.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Most Recent Project
+**GitHub Repository Auditor (FastAPI, Python)** 
+A production-grade FastAPI backend service that analyzes public GitHub repositories and generates an explainable quality score, detailed findings, and actionable improvement suggestions based on documentation, code quality, security hygiene, testing practices, and repository health.
+
+<br>
+
+## ⚙️ Tech Stacks
+- **Backend & APIs:** FastAPI, REST APIs, Flutter, JWT, OAuth2 
+- **Languages:** Python · C · C++ · Dart · SQL  
+- **Databases & Caching:** PostgreSQL · MySQL · SQLite · Redis  
+- **DevOps & Tools:** Docker · Git · Linux · CI/CD · Postman
+  
+<br>
+
+📖Currently learning **System Design, Distributed Systems, and High-Performance Backends**
+
+Open to collaborating on **Backend APIs, Open Source, and Infrastructure-focused projects**  
+
+⚡Fun Fact: I’ve spent way more time talking to console logs than to actual people lately :P
+
+<br> 
+
+Connect with me
+- Email: **somiyaagarwal2004@gmail.com**
