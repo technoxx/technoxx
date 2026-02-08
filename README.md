@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=technoxx&color=1520A6)
 
-# 👋 Hi, I'm Somiya Agarwal  
+# 👋 Hi
 **Backend Software Engineer | Python & FastAPI | Distributed Systems Enthusiast**  
 Passionate about building scalable, production-grade systems that solve real-world problems.
 
@@ -29,4 +29,4 @@ Open to collaborating on **Backend APIs, Open Source, and Infrastructure-focused
 <br> 
 
 Connect with me
-- Email: **somiyaagarwal2004@gmail.com**
+- Email:
