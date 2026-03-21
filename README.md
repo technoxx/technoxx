@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hey,%20I'm%20Somiya%20Agarwal%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Open%20to%20Work&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hey,%20I'm%20Somiya%20Agarwal%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Dev+%7C+Serious+about+the+craft+%F0%9F%8E%AF;Building+APIs+that+don't+return+500s+(mostly);Available+to+work+%E2%80%94+let's+build+something!;#It+works+on+my+machine+%E2%84%A2;git+commit+-m+%22pls+work%22;console.log(%22why%22))
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Dev+%7C+Serious+about+the+craft+%F0%9F%8E%AF;Building+APIs+that+don't+return+500s,+mostly+:D;#It+works+on+my+machine+%E2%84%A2;git+commit+-m+%22pls+work%22;console.log(%22why%22))
 
 <br/>
 
@@ -24,7 +24,6 @@ I recently completed an internship as a Associate Software Engineer Trainee at R
 me = {
     "role":       "Backend Developer",
     "focus":      ["APIs", "databases", "server-side logic", "clean architecture"],
-    "status":     "🟢 Actively looking for my next role",
 
     "known_for": [
         "Building side projects that go beyond tutorials",
@@ -69,10 +68,8 @@ me = {
 
 ---
 
-## 🚀 Projects I'm Actually Proud Of
-
-> *Side projects are my portfolio - here's what I've shipped*
-> 
+## 🚀 Projects
+ 
 
 ### 🔧 [VIRAL : Real-time Multiplayer Game](https://github.com/technoxx/VIRAL)
 
@@ -114,7 +111,7 @@ me = {
 
 If you're building something interesting and need a backend dev who ships real code - I'd love to chat.
 
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somiyaagarwal2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somiyaagarwal2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somiya23)
 
 </div>
@@ -122,7 +119,7 @@ If you're building something interesting and need a backend dev who ships real c
 
 <div align="center">
 
-*Response time: fast. Enthusiasm: genuine. References: available.*
+*Response time: fast. Enthusiasm: genuine.*
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer&animation=fadeIn)
 
 </div>
