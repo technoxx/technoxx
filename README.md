@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hey,%20I'm%20Somiya%20Agarwal%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=header&text=Hey,%20I'm%20Somiya%20Agarwal%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Dev+%7C+Serious+about+the+craft+%F0%9F%8E%AF;Building+APIs+that+don't+return+500s,+mostly+:D;#It+works+on+my+machine+%E2%84%A2;git+commit+-m+%22pls+work%22;console.log(%22why%22))
 
@@ -20,21 +20,11 @@ Backend Developer who builds real things, ships them, and learns fast. I got int
 
 I recently completed an internship as a Associate Software Engineer Trainee at RedDoorz where I worked on backend systems and API's. While my professional experience is just beginning, I have a genuine obsession for learning and building, and some fun side-projects I actually finished.
 
-```python
-me = {
-    "role":       "Backend Developer",
-    "focus":      ["APIs", "databases", "server-side logic", "clean architecture"],
+Currently exploring LLMs, RAG, and system design through hands-on backend projects.
 
-    "known_for": [
-        "Building side projects that go beyond tutorials",
-        "Writing code I'm not embarrassed to show in interviews",
-        "Asking good questions (and reading the docs first)",
-    ],
+⚡Fun_fact: I have never once written a bug. Only surprise features :D
 
-    "currently_learning": "System design - because senior devs won’t stop mentioning it",
-    "fun_fact": "I have never once written a bug. Only surprise features :)",
-}
-```
+
 
 ## 🛠️ Tech Stack
 
@@ -75,32 +65,25 @@ me = {
 
 **Live Demo:** https://viralgame.up.railway.app/
 
-**What it does:** A **real-time multiplayer infection simulation game** where players spread infection across a virtual population while others try to contain it. Think **strategy + chaos + real-time networking**.
+Real-time infection simulation game with multiplayer interactions and live state sync.
+Built using FastAPI + WebSockets to handle concurrent users and low-latency updates.
+Focused on event-driven backend design and scalable gameplay logic.
 
-**Stack:** FastAPI · Python · Vanilla JavaScript · HTML · CSS     
+---
 
-**Highlights**
+### 🔧 [RAG-based PDF QA API](https://github.com/technoxx/rag-pdf-api)
 
-- Real-time gameplay powered by **FastAPI + WebSockets**
-- Multiplayer architecture with live state synchronisation
-- Backend built to handle **concurrent player interactions**
-- Simulation logic for infection spread and containment
-- Designed for **low latency and scalable gameplay**
+Backend system to upload PDFs and answer queries using Retrieval-Augmented Generation.
+Implements chunking, embeddings, and semantic search with Qdrant + LLMs.
+Exposes clean FastAPI endpoints for document ingestion and contextual querying.
 
 ---
 
 ### 🔧 [GitHub Repo Auditor API](https://github.com/technoxx/github_repo_auditor)
 
-**What it does:** An API that **analyses GitHub repositories and generates automated quality reports**. Useful for developers who want quick insights about: project structure, documentation quality, potential improvements, overall repository health
-  
-**Stack:** Python · FastAPI · PostgreSQL  · Redis · GitHub API
-
-**Highlights**
-
-- Fetches repository data via GitHub API
-- Generates structured analysis reports
-- Designed as a **clean REST API ready for integration**
-- Built with scalable backend architecture
+API that analyses GitHub repositories and generates structured quality reports.
+Integrates GitHub API with backend processing for insights on repo health and structure.
+Designed as a scalable REST service using FastAPI, PostgreSQL, and Redis.
 
 
 ---
